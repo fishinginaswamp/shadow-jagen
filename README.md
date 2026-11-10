@@ -1,5 +1,6 @@
 # fire random shadow jagen - a chaos-like ROM hack for fire emblem shadow dragon (FE11)
 
+#### IMPORTANT: LOUD INTRO MUSIC - turn the volume down if you are playing on an NDS to save your speakers. You have been warned.
 
 A random event can happen every turn - ranging from simple stat modifications to major effects that change units, people, and weapons at the same time.
 
