@@ -39,3 +39,6 @@ I may do bug and balance fixes in the future but this was an inside joke turned 
 - Emulators: I do most of my debugging and development with melonDS, but it has booted in desmume (I only tested booting in desmume, if it doesn't work go to melonds)
 - Hardware: I have an r4i flash cart and a modded DSi. The flash cart works, but running it off the SD card via [nds-bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) did not work for me (I am using an old version though)
 - You can see the current effect(s) in the "Suspend" menu (suspending/in-map save points are not tested and I assume will break something)
+
+# To-do
+Upload the code and technical writeup (coming soon)
